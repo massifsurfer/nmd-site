@@ -1,2 +1,2 @@
 # nmd-site
-Static site for NMD commutity.
+Static site for Chechen langauage enthusiasts commutity.
